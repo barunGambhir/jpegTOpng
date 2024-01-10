@@ -8,8 +8,6 @@ To use the project, clone the repository:
 
     ```bash
     git clone https://github.com/barunGambhir/jpegTOpng.git
-    ```
-    ```bash
     cd jpeg-to-png
     ```
 
