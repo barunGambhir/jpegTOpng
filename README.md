@@ -14,12 +14,11 @@ To use the project, clone the repository:
 ## Build
 To build the project, execute the following commands:
 
-    ```
     mkdir build
     cd build
     cmake ..
     make
-    ```
+    
     
 
 ## Running Tests
