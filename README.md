@@ -9,7 +9,6 @@ To use the project, clone the repository:
     ```bash
     git clone https://github.com/barunGambhir/jpegTOpng.git
     cd jpeg-to-png
-    ```
 
 ## Build
 To build the project, execute the following commands:
@@ -19,13 +18,12 @@ To build the project, execute the following commands:
     cd build
     cmake ..
     make
-    ```
+    
 
 ## Running Tests
     ```bash
     cd build
     ./conversion_tests
-    ```
 
 
 
